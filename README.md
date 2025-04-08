@@ -32,7 +32,7 @@ This project analyzes **A non existing chocolate company** ,**(Fake data)** anal
 
 # (3) CSAT Analysis- Dashboard
 
-**CSAT (Customer Satisfaction Score)** is a key metric used to measure customer satisfaction with a product, service, or interaction. It is typically collected through customer surveys, where customers rate their satisfaction on a scale of year **October 2020**.
+**CSAT (Customer Satisfaction Score)** is a key metric used to measure customer satisfaction with a product, service, or interaction. It is typically collected through customer surveys, where customers rate their satisfaction on a scale of year **October 2020**.**(Non- guided)**
 
 ## Tools Used
 **MySQl          
